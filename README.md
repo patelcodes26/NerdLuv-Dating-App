@@ -28,7 +28,7 @@ NerdLuv.com is a geek-focused online dating platform that helps single nerds fin
 1. **Clone or Download the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/nerdluv.git
+   git clone https://github.com/patelcodes26/nerdluv.git
    ```
 
 2. **Move Files to Server Directory**:
