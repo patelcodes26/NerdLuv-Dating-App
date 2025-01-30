@@ -33,7 +33,7 @@ NerdLuv.com is a geek-focused online dating platform that helps single nerds fin
 
 2. **Move Files to Server Directory**:
 
-   - If using XAMPP, move the project files to `htdocs/NerdLuv/`
+   - If using XAMPP, move the project files to `htdocs/NerdLuv-Dating-App/`
    - If using a standard Apache server, move files to the `www` or `public_html` directory
 
 3. **Start the Server**:
@@ -49,13 +49,13 @@ NerdLuv.com is a geek-focused online dating platform that helps single nerds fin
    Open a web browser and go to:
 
    ```
-   http://localhost/NerdLuv/
+   http://localhost/NerdLuv-Dating-App/
    ```
 
 ## File Structure
 
 ```
-NerdLuv/
+NerdLuv-Dating-App/
 │── index.php          # Homepage
 │── signup.php         # User registration page
 │── signup-submit.php  # Handles sign-up requests
